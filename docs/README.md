@@ -29,13 +29,7 @@ Provides all the necessary shared/common resources and helpers that *[Moho®](ht
 [m1-5a]: https://github.com/lost-scripts/ls_shapes_window "Release"
 -->
 
-<table width='100%' border='2' class='card'><thead><tr><th align='center' width='96'>Icon</th><th align='center' width='120'>Name</th><th align='center' width='1920'>Description</th><th align='center' title='Direct Download Links'>📦</th></tr></thead><tbody>
-<tr>
-			<td align='center' width='96'><a href='https://github.com/lost-scripts/ls_wiggle'><img src='https://raw.githubusercontent.com/RaiLopez/ls_wiggle/main/docs/assets/icon.png' width='48' class='colorize'></a></td>
-			<td><a href='https://github.com/lost-scripts/ls_wiggle'><b>Wiggle</b></a></td>
-			<td>Lost Script <em>Wiggle</em> for <a href='https://moho.lostmarble.com/' title='Go to Moho&reg; homepage...'>MOHO</a> Animation Software.</td>
-			<td align='right' nowrap><a href='https://github.com/lost-scripts/ls_wiggle'><img src='https://img.shields.io/github/downloads/lost-scripts/ls_wiggle/total?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZWVlIiBkPSJNMjg4IDMyYTMyIDMyIDAgMSAwLTY0IDB2MjQzbC03My03NGEzMiAzMiAwIDAgMC00NiA0NmwxMjggMTI4YzEzIDEyIDMzIDEyIDQ2IDBsMTI4LTEyOGEzMiAzMiAwIDAgMC00Ni00NmwtNzMgNzRWMzJ6TTY0IDM1MmMtMzUgMC02NCAyOS02NCA2NHYzMmMwIDM1IDI5IDY0IDY0IDY0aDM4NGMzNSAwIDY0LTI5IDY0LTY0di0zMmMwLTM1LTI5LTY0LTY0LTY0SDM0N2wtNDYgNDVhNjQgNjQgMCAwIDEtOTAgMGwtNDUtNDVINjR6bTM2OCA1NmEyNCAyNCAwIDEgMSAwIDQ4IDI0IDI0IDAgMSAxIDAtNDh6Ii8+PC9zdmc+&color=blue&label=' height='20'></a></td>
-		</tr></table>
+<table id='catalog' class='card' width='100%' border='2'><thead><tr><th align='center' width='96'>Icon</th><th align='center' width='120'>Name</th><th align='center' width='1920'>Description</th><th align='center' title='Direct Download Links'>📦</th></tr></thead><tbody><table id='catalog' class='card' width='100%' border='2'><thead><tr><th align='center' width='96'>Icon</th><th align='center' width='120'>Name</th><th align='center' width='1920'>Description</th><th align='center' title='Direct Download Links'>📦</th></tr></thead><tbody></tbody></table>
 
 <!-- 
 <table width="100%" border="2" class="card">
