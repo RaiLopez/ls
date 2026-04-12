@@ -29,8 +29,8 @@ Provides all the necessary shared/common resources and helpers that *[Moho®](ht
 [m1-5a]: https://github.com/lost-scripts/ls_shapes_window "Release"
 -->
 
-<!-- STARRED_START -->
-<!-- STARRED_END -->
+<table width='100%' border='2' class='card'><tr><td align='center' width='96'><img src='https://raw.githubusercontent.com/RaiLopez/ls_shapes/main/docs/assets/icon.png' width='48' class='colorize'></td><td><b>Shapes</b></td><td>Persistent shape palette plus helpers for better Moho&reg; vector/s management.</td><td align='right' nowrap><a href='https://github.com/lost-scripts/ls_shapes' title='Go to repository...'><img src='https://img.shields.io/github/downloads/lost-scripts/ls_shapes/total.svg?color=yellow' height='20'></a></td></tr>
+<tr><td align='center' width='96'><img src='https://raw.githubusercontent.com/RaiLopez/ls_wiggle/main/docs/assets/icon.png' width='48' class='colorize'></td><td><b>Wiggle</b></td><td>Lost Script Wiggle for MOHO Animation Software.</td><td align='right' nowrap><a href='https://github.com/lost-scripts/ls_wiggle' title='Go to repository...'><img src='https://img.shields.io/github/downloads/lost-scripts/ls_wiggle/total.svg?color=yellow' height='20'></a></td></tr></table>
 
 <!-- 
 <table width="100%" border="2" class="card">
