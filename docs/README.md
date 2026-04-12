@@ -81,7 +81,7 @@ More than user-facing features, *LS<sub><sup><sup> Core</sup></sup></sub>* works
 
 <br>
 
-## *Download & Install*
+## *Installation*
 
 Starting from you have already unzipped the downloaded file, you actually have two different installation methods...
 
