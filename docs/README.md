@@ -50,7 +50,7 @@ Provides all the necessary shared/common resources and helpers that *[Moho®](ht
 				</td>
 				<td valign='middle'>
 					<a href='https://github.com/lost-scripts/ls_wiggle' style='text-decoration:none;'><strong>Wiggle</strong></a><br>
-					<small>Lost Script <em>Wiggle</em> for <a href='https://moho.lostmarble.com/' title='Go to Moho&reg; homepage...'>MOHO</a> Animation Software.</small>
+					<small>Animation helpers and mouse capturing for Moho&reg; Animation Software.</small>
 				</td>
 				<td align='right' width='120' valign='middle'>
 					<a href='https://github.com/lost-scripts/ls_wiggle'><img src='https://img.shields.io/github/downloads/lost-scripts/ls_wiggle/total?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZWVlIiBkPSJNMjg4IDMyYTMyIDMyIDAgMSAwLTY0IDB2MjQzbC03My03NGEzMiAzMiAwIDAgMC00NiA0NmwxMjggMTI4YzEzIDEyIDMzIDEyIDQ2IDBsMTI4LTEyOGEzMiAzMiAwIDAgMC00Ni00NmwtNzMgNzRWMzJ6TTY0IDM1MmMtMzUgMC02NCAyOS02NCA2NHYzMmMwIDM1IDI5IDY0IDY0IDY0aDM4NGMzNSAwIDY0LTI5IDY0LTY0di0zMmMwLTM1LTI5LTY0LTY0LTY0SDM0N2wtNDYgNDVhNjQgNjQgMCAwIDEtOTAgMGwtNDUtNDVINjR6bTM2OCA1NmEyNCAyNCAwIDEgMSAwIDQ4IDI0IDI0IDAgMSAxIDAtNDh6Ii8+PC9zdmc+&color=blue&label=' height='20'></a>
