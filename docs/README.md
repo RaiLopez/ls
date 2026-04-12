@@ -29,7 +29,7 @@ Provides all the necessary shared/common resources and helpers that *[Moho®](ht
 [m1-5a]: https://github.com/lost-scripts/ls_shapes_window "Release"
 -->
 
-<table width='100%' border='2' class='card'><table id='catalog' width='100%' border='0'><thead><tr><th align='center' width='96'>Icon</th><th align='center' width='120'>Name</th><th align='center' width='1920'>Description</th><th align='center' title='Direct Download Links'>📦</th></tr></thead><tbody>
+<table width='100%' border='2' class='card'><thead><tr><th align='center' width='96'>Icon</th><th align='center' width='120'>Name</th><th align='center' width='1920'>Description</th><th align='center' title='Direct Download Links'>📦</th></tr></thead><tbody>
 <tr>
 			<td align='center' width='96'><a href='https://github.com/lost-scripts/ls_wiggle'><img src='https://raw.githubusercontent.com/RaiLopez/ls_wiggle/main/docs/assets/icon.png' width='48' class='colorize'></a></td>
 			<td><a href='https://github.com/lost-scripts/ls_wiggle'><b>Wiggle</b></a></td>
