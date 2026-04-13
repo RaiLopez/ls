@@ -40,7 +40,7 @@ Provides all the necessary shared/common resources and helpers that *[Moho®](ht
 			<tr>
 				<td align='center' width='120'><a href='https://github.com/lost-scripts/ls_wiggle'><picture><source media='(prefers-color-scheme: dark)' srcset='https://raw.githubusercontent.com/RaiLopez/RaiLopez/refs/heads/main/docs/ls_wiggle/assets/icon_dark.png'><source media='(prefers-color-scheme: light)' srcset='https://raw.githubusercontent.com/RaiLopez/RaiLopez/refs/heads/main/docs/ls_wiggle/assets/icon_light.png'><img src='https://raw.githubusercontent.com/RaiLopez/RaiLopez/refs/heads/main/docs/ls_wiggle/assets/icon.png' width='48' alt='Icon' class='colorize'></picture></a></td>
 				<td width='1920'><a href='https://github.com/lost-scripts/ls_wiggle'><strong>Wiggle</strong></a><br>Animation helpers and mouse capturing for Moho&reg; Animation Software.</td>
-				<td align='center' width='240'><a href='https://github.com/lost-scripts/ls_wiggle'><img src='https://img.shields.io/badge/_SOON…_-blue.svg' alt='Download' height='24'></a></td>
+				<td align='center' width='240'><a href='https://github.com/lost-scripts/ls_wiggle'><img src='https://img.shields.io/badge/Soon…-blue.svg' alt='Download' height='24'></a></td>
 			</tr>
 		</table>
 
